@@ -202,10 +202,12 @@ main .icon-list > li.facebook:hover {
 main .icon-list > li.github {
 	border-color: #000;
 	color: #000;
+	border-radius: 100px !important;
 }
 
 main .icon-list > li.github:hover {
-	background: #fff;
+	background: #000 !important;
+	color: #000 !important;
 }
 
 main .icon-list > li.email {
